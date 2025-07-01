@@ -1,0 +1,5 @@
+Player URL:
+https://styler2332.github.io/player/?list=https://raw.githubusercontent.com/styler2332/2ccd2a5bf3346242/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/styler2332/2ccd2a5bf3346242/refs/heads/master/github_master.m3u8
